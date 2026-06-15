@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrices", "Matrices.csproj", "{C477A143-EFBA-4EFC-AF95-ED06474E36E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vectors", "..\c#_shevchuk\Vectors\Vectors.csproj", "{7E08E225-6B45-47AD-9D94-2AFFE2921A4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C477A143-EFBA-4EFC-AF95-ED06474E36E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C477A143-EFBA-4EFC-AF95-ED06474E36E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C477A143-EFBA-4EFC-AF95-ED06474E36E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C477A143-EFBA-4EFC-AF95-ED06474E36E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E08E225-6B45-47AD-9D94-2AFFE2921A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E08E225-6B45-47AD-9D94-2AFFE2921A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E08E225-6B45-47AD-9D94-2AFFE2921A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E08E225-6B45-47AD-9D94-2AFFE2921A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D5D33A6-2C62-4B38-8C1C-C08890A4D09B}
+	EndGlobalSection
+EndGlobal
